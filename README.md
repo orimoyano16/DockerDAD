@@ -44,3 +44,15 @@ ejem02
 
 
 <img width="471" height="439" alt="image" src="https://github.com/user-attachments/assets/3dfe1a8e-f941-4fb6-a428-c6feeaba6c98" />
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+ejem03 
+-Correr el script 
+<img width="1331" height="689" alt="Captura de pantalla 2026-05-12 173054" src="https://github.com/user-attachments/assets/012fb9b1-d115-4316-94f6-e6b3ca9f2e82" />
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+
