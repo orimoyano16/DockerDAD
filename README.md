@@ -1,9 +1,9 @@
 # DockerDAD
 ## Actividad de DAD / 05/05/2026
 
-Del repositorio https://github.com/joseluisgs/docker-tutorial/tree/master
+_Del repositorio https://github.com/joseluisgs/docker-tutorial/tree/master_
 
-Implementar el ejem01
+#### Implementar el ejem01
 Editar dentro del contenedor de Docker
 - Instalar un editor de texto como Vim o Nano
 - Para instalar en linux un programa se debe actualizar el listado de repositorios de APT
@@ -21,7 +21,7 @@ Editar desde VS Code en el contenedor de Docker
 - Como no se puede conectar por error en GLIBC por la versión de php7.0, actualizar a php 8.2
 - Relanzar la imagen de docker
 
-ejem02
+#### ejem02
 - run.sh es un archivo para ejecutar en una terminal de linux sh o bash
 - Interpretar los comandos en run.sh
 - Ejecutar manualmente en la terminal de VS Code
@@ -48,7 +48,7 @@ ejem02
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-ejem03 
+#### ejem03 
 -Correr el script 
 <img width="1331" height="689" alt="Captura de pantalla 2026-05-12 173054" src="https://github.com/user-attachments/assets/012fb9b1-d115-4316-94f6-e6b3ca9f2e82" />
 
