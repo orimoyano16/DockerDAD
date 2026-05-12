@@ -54,5 +54,12 @@ Editar desde VS Code en el contenedor de Docker
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
+Ejem04
+-Ejecutamos la aplicacion con el comando : 
+`docker-compose up -d`
+docker-compose VA a automatizar todo esTe proceso largo que venía haciendo.
+
+<img width="943" height="614" alt="image" src="https://github.com/user-attachments/assets/0867a08a-3204-4300-9c64-4fb886becc22" />
+
 
 
