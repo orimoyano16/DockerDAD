@@ -103,3 +103,33 @@ docker-compose VA a automatizar todo este proceso largo que venía haciendo.
 
 ***Conclusión:***
 Por todos estos motivos, la industria se alejó de los "scripts de configuración" y migró hacia herramientas declarativas. En lugar de escribir un script que diga paso a paso cómo hacer las cosas (imperativo), hoy se usan archivos como docker-compose.yml que simplemente declaran cuál debe ser el estado final (declarativo), dejando que el motor se encargue de resolver cómo lograrlo de forma segura, portátil e idempotente.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# ejemplo 7
+- php funcionando , listo para ingresar con el usuario y contraseña
+<img width="1180" height="541" alt="WhatsApp Image 2026-06-09 at 7 03 11 PM" src="https://github.com/user-attachments/assets/0f6434b9-f4b0-4a64-a194-ca9e5ccd2b9e" />
+
+
+-Ingresamos con el usuario y contraseña establecido en el backend
+  <img width="642" height="399" alt="image" src="https://github.com/user-attachments/assets/18140bb4-00b5-4eff-980f-f9917b7a8931" />
+
+
+-Se abre el phpAdmin y creamos un una tabla y un usuario de ejemplo
+<img width="1360" height="676" alt="image" src="https://github.com/user-attachments/assets/47551237-bbfc-4cbf-9183-c00d7d4f197a" />
+
+
+-Registrado con exito 
+<img width="1356" height="414" alt="image" src="https://github.com/user-attachments/assets/8aba8083-fb23-493f-ab94-2fcf34c8fccc" />
+
+
+- Local host conectado con exito y leyendo el usuario insertado 
+<img width="325" height="212" alt="image" src="https://github.com/user-attachments/assets/666fa3d3-6d19-4fc2-90c5-0fd1cce82eb0" />
+
+
+-Modificamos el index.php para ver cambios instantataneos 
+<img width="582" height="248" alt="image" src="https://github.com/user-attachments/assets/b4833305-3e81-4a8b-afba-6dd90268faf9" />
+
+
+
+
