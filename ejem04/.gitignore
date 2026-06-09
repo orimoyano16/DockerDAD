@@ -1,0 +1,3 @@
+# Ignorar los archivos del núcleo de WordPress generados por el volumen
+wordpress/
+

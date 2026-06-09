@@ -1,0 +1,16 @@
+
+# Ignorar los datos internos de la base de datos
+mariadb/data/
+**/data/
+
+# Ignorar los archivos de registro (logs)
+logs/
+*.log
+
+# Carpetas de editores de código (como VS Code)
+.vscode/
+.idea/
+
+# Archivos ocultos del sistema operativo
+.DS_Store
+Thumbs.db
