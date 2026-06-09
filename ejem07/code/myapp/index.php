@@ -1,5 +1,5 @@
 <?php
-echo ("<h1>HOLA Despliegue y Arquitectura de despliegue</h1>");
+echo ("<h1>HOLA Diseñp y Arquitectura de despliegue</h1>");
 echo ("<h3>He montado LEMP, Moyano Oriana </h3>");
 
 try {
