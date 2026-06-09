@@ -128,7 +128,8 @@ Por todos estos motivos, la industria se alejó de los "scripts de configuració
 
 
 -Modificamos el index.php para ver cambios instantataneos 
-<img width="582" height="248" alt="image" src="https://github.com/user-attachments/assets/b4833305-3e81-4a8b-afba-6dd90268faf9" />
+<img width="522" height="212" alt="image" src="https://github.com/user-attachments/assets/f494806e-5c8d-4b92-b239-cfec7817e467" />
+
 
 
 
